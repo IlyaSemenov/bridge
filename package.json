@@ -45,7 +45,7 @@
     "destr": "^1.2.0",
     "enhanced-resolve": "^5.10.0",
     "escape-string-regexp": "^5.0.0",
-    "estree-walker": "^2.0.2",
+    "estree-walker": "^3.0.1",
     "externality": "^0.2.2",
     "fs-extra": "^10.1.0",
     "get-port-please": "^2.6.1",
